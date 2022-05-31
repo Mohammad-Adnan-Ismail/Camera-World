@@ -1,0 +1,16 @@
+.main{
+   
+    height: 350px;
+    width: 300px;
+
+
+}
+.outer img{
+border-radius: 40%;
+}
+.outer{
+    /* border: 1px solid green; */
+    display: flex;
+    justify-content: space-evenly;
+    height: 56px;
+}
